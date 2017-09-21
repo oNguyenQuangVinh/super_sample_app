@@ -4,9 +4,11 @@ class StaticPagesController < ApplicationController
   end
 
   def help
+  	@abc = 1
   end
 
   def about
+  	@cdf = 8
   end
 
   def contact
