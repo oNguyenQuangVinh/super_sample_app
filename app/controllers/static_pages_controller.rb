@@ -1,6 +1,6 @@
 class StaticPagesController < ApplicationController
   def home
-  	
+  	yeeeeeeeeeeeeeeeeeeeeeee = 1
   end
 
   def help
@@ -12,5 +12,6 @@ class StaticPagesController < ApplicationController
   end
 
   def contact
+  	contact = 0 || 1
   end
 end
